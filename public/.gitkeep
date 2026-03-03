@@ -1,0 +1,2 @@
+# 把图片等静态资源放在 public 文件夹里
+# 例如：public/hero.jpg 在代码里用 /hero.jpg 引用
