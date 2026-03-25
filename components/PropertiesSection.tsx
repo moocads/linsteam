@@ -44,7 +44,7 @@ function PropertyCard({
           />
         </div>
         <div className="flex flex-col gap-1">
-          <p className="text-xl font-bold text-foreground">{price}</p>
+          {/* <p className="text-xl font-bold text-foreground">{price}</p> */}
           <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
             {address}
           </p>
