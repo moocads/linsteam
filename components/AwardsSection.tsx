@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 
 const AWARDS = [
   {
-    src: "/images/2022-champion.jpeg",
+    src: "/images/2025-champion.jpg",
     alt: "Bay Street Group Champion Resale Award",
   },
   {
@@ -13,7 +13,7 @@ const AWARDS = [
     alt: "Bay Street Group Illuminate 2024 Award",
   },
    {
-    src: "/images/2022-champion.jpeg",
+    src: "/images/2022-champion-02.jpg",
     alt: "Bay Street Group Illuminate 2024 Award",
   },
 ] as const
