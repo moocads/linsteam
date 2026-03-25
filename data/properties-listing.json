@@ -7,84 +7,10 @@
     "bedrooms": 4,
     "bathrooms": 3,
     "sqft": 2600,
-    "description": "Beautifully updated detached home on iconic Yonge Street, featuring sun-filled living spaces, high ceilings, and a thoughtfully designed layout ideal for family life and entertaining.",
-    "heroImage": "/images/property-1.jpg",
+    "description": "",
+    "heroImage": "/images/listing/cutted/lins-sold-listing1.jpg",
     "gallery": [
-      "/images/property-1.jpg",
-      "/images/property-2.jpg",
-      "/images/property-3.jpg"
-    ],
-    "agent": {
-      "name": "Min Lin",
-      "title": "Real Estate Broker",
-      "phone": "123-456-7890",
-      "email": "info@linsteam.ca",
-      "wechatQr": "/images/wechat.jpg",
-      "photo": "/images/team.jpg"
-    }
-  },
-  {
-    "slug": "123-yonge-st-2",
-    "title": "Modern Townhome Retreat",
-    "price": "$1,629,000",
-    "address": "123B Yonge St, Toronto, ON",
-    "bedrooms": 3,
-    "bathrooms": 3,
-    "sqft": 2100,
-    "description": "Sophisticated modern townhome with open-concept living, designer finishes, and a private outdoor terrace in the heart of the city.",
-    "heroImage": "/images/property-2.jpg",
-    "gallery": [
-      "/images/property-2.jpg",
-      "/images/property-3.jpg",
-      "/images/property-4.jpg"
-    ],
-    "agent": {
-      "name": "Min Lin",
-      "title": "Real Estate Broker",
-      "phone": "123-456-7890",
-      "email": "info@linsteam.ca",
-      "wechatQr": "/images/wechat.jpg",
-      "photo": "/images/team.jpg"
-    }
-  },
-  {
-    "slug": "123-yonge-st-3",
-    "title": "Classic Colonial Residence",
-    "price": "$2,049,999",
-    "address": "123C Yonge St, Toronto, ON",
-    "bedrooms": 5,
-    "bathrooms": 4,
-    "sqft": 3200,
-    "description": "Timeless colonial-style residence with generous principal rooms, a chef-inspired kitchen, and refined details throughout.",
-    "heroImage": "/images/property-3.jpg",
-    "gallery": [
-      "/images/property-3.jpg",
-      "/images/property-1.jpg",
-      "/images/property-4.jpg"
-    ],
-    "agent": {
-      "name": "Min Lin",
-      "title": "Real Estate Broker",
-      "phone": "123-456-7890",
-      "email": "info@linsteam.ca",
-      "wechatQr": "/images/wechat.jpg",
-      "photo": "/images/team.jpg"
-    }
-  },
-  {
-    "slug": "123-yonge-st-4",
-    "title": "Craftsman-Style Luxury Home",
-    "price": "$1,949,000",
-    "address": "123D Yonge St, Toronto, ON",
-    "bedrooms": 4,
-    "bathrooms": 4,
-    "sqft": 2800,
-    "description": "Warm craftsman-inspired home blending character details with modern comfort, complete with landscaped grounds and inviting outdoor living areas.",
-    "heroImage": "/images/property-4.jpg",
-    "gallery": [
-      "/images/property-4.jpg",
-      "/images/property-1.jpg",
-      "/images/property-2.jpg"
+      ""
     ],
     "agent": {
       "name": "Min Lin",

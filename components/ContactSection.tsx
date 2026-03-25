@@ -9,8 +9,8 @@ const CONTACT_INFO = [
   {
     icon: Phone,
     label: "Phone",
-    value: "123-456-7890",
-    href: "tel:1234567890",
+    value: "(647) 615-9999",
+    href: "tel:(647) 615-9999",
   },
   {
     icon: Mail,
@@ -21,8 +21,8 @@ const CONTACT_INFO = [
   {
     icon: MapPin,
     label: "Address",
-    value: "123 Yonge st. Toronto, ON CA",
-    href: "https://maps.google.com/?q=123+Yonge+St+Toronto+ON",
+    value: "8300 Woodbine Ave suite 500, Markham, ON L3R 9Y7",
+    href: "https://maps.app.goo.gl/fQgS24DpnnmfLuW38",
   },
 ] as const
 

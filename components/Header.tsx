@@ -10,7 +10,6 @@ const SCROLL_THRESHOLD = 20
 
 const NAV_ITEMS = [
   { label: "ABOUT", href: "#about" },
-  { label: "OUR PROPERTIES", href: "#properties" },
   { label: "SOLD", href: "#properties" },
   { label: "RESOURCE", href: "#services" },
   { label: "CONTACT", href: "#contact" },
