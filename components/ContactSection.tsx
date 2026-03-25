@@ -79,11 +79,7 @@ export default function ContactSection() {
                <Image src="/images/wechat.jpg" alt="Wechat" width={200} height={200} />
               </div>
             </div>
-        <div className="flex h-36 w-36 items-center justify-center rounded-lg bg-light p-0">
-              <div className="flex h-full w-full flex-col items-center justify-center gap-1 rounded border border-gray-border">
-               <Image src="/images/red.jpg" alt="小红书" width={200} height={200} />
-              </div>
-            </div>
+
           </div>
         </motion.div>
       </div>

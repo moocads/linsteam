@@ -43,7 +43,7 @@ export default function PropertiesPage() {
                     />
                   </div>
                   <div className="flex flex-1 flex-col gap-2 p-5">
-                    <p className="text-xl font-bold text-foreground">{property.price}</p>
+                    {/* <p className="text-xl font-bold text-foreground">{property.price}</p> */}
                     <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
                       {property.address}
                     </p>

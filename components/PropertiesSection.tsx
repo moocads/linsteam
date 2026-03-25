@@ -67,7 +67,7 @@ export default function PropertiesSection() {
           viewport={{ once: true, amount: 0.2 }}
           className="mb-12 text-center text-3xl font-bold tracking-tight text-foreground md:text-4xl"
         >
-          Our Properties
+          Our <span className="text-tertiary">Sold</span> Properties
         </motion.h2>
 
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">

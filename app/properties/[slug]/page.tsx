@@ -60,9 +60,9 @@ export default async function PropertyDetailPage({ params }: PropertyPageProps) 
             <p className="text-xs font-medium uppercase tracking-[0.25em] text-gold/80">
               Featured Listing
             </p>
-            <h1 className="mt-2 max-w-3xl text-3xl font-bold uppercase leading-tight tracking-tight text-light md:text-4xl">
+            {/* <h1 className="mt-2 max-w-3xl text-3xl font-bold uppercase leading-tight tracking-tight text-light md:text-4xl">
               {property.title}
-            </h1>
+            </h1> */}
             <p className="mt-2 text-sm font-medium uppercase tracking-[0.18em] text-light/80">
               {property.address}
             </p>
