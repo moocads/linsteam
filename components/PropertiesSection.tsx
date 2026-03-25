@@ -55,7 +55,7 @@ function PropertyCard({
 }
 
 export default function PropertiesSection() {
-  const properties = getAllProperties()
+  const properties = getAllProperties().slice(0, 8)
 
   return (
     <section id="properties" className="bg-background py-16 md:py-24 border-t border-gold/30">
